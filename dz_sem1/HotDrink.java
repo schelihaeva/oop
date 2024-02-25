@@ -1,9 +1,5 @@
-// package oop.dz_sem1;
 
-// public class Hot drink {
-    
-// }
-package oop.dz_sem1;
+package dz_sem1;
 // суперкласс родителя, родительский класс
 class HotDrink {
     public void makeSound() {

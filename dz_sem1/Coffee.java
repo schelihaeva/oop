@@ -1,13 +1,13 @@
-package oop.dz_sem1;
+package dz_sem1;
 
-class HotChocolate extends HotDrink {
+class Coffee extends HotDrink {
     @Override //показатель полиморфизма, проверяет есть ли этот метод в классе родителя
     public void makeTemperature() {
-    System.out.println("Осторожно!!!Горячий! 70 градусов");
+    System.out.println("Осторожно!!!Горячий! 65 градусов");
     }
     
     @Override
     public void volume() {
-    System.out.println("Кофе объемом 150мл");
+    System.out.println("Кофе объемом 200мл");
     }
     }

@@ -1,5 +1,5 @@
 
-package oop.dz_sem1 ;
+package dz_sem1 ;
 
 public class Main {
     public static void main(String[] args) {
